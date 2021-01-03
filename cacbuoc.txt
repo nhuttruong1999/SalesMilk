@@ -1,0 +1,5 @@
+b1: git init
+b2: git add .
+b3: git commit -m "first commit"
+b4: git remote add origin 'ten duong dan da tao'
+b5: git push -u origin master
